@@ -27,3 +27,7 @@
 * [PV](k8s/pv.md)
 * [调度器](k8s/调度器.md)
 * [安全认证](k8s/安全认证.md)
+* [Helm](k8s/helm.md)
+* [证书](k8s/证书.md)
+* [ELK](k8s/elk.md)
+* [HA](k8s/HA.md)
